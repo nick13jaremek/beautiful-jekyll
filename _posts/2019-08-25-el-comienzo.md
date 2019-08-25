@@ -1,7 +1,7 @@
 ---
 layout: post
-title: El comienzo!
-image: /img/hello_world.jpeg
+title: ¡El comienzo!
+image: /img/hola_mundo.jpeg
 ---
 
 Durante un tiempo he estado pensando en crear un blog personal donde poder publicar mis textos acerca de temas variados, como son el desarrollo de software (mi campo profesional), así como hobbies tales como los videojuegos, los LEGOs y otros.
