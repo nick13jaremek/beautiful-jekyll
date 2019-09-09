@@ -1,9 +1,17 @@
 ---
 layout: post
-title: ¡El comienzo!
+title: El comienzo
 image: /img/hola_mundo.jpeg
 ---
 
-Durante un tiempo he estado pensando en crear un blog personal donde poder publicar mis textos acerca de temas variados, como son el desarrollo de software (mi campo profesional), así como hobbies tales como los videojuegos, los LEGOs y otros.
+Durante mucho tiempo ha estado rondando por mi cabeza la idea de tener un blog personal donde poder plasmar algunos de mis pensamientos y opiniones concernientes a temas que pudiera considerar interesantes y amenos, a la vez que darme a conocer.
 
-Veremos cómo cuaja esto con el tiempo. Trataré de que no acabe en el limbo como el enésimo _side project_ fallido.
+La idea también surgió como reto personal por el hecho de que nunca había hecho algo así (hasta ahora), como es poner la base de un blog y comprometerme a mantenerlo de forma periódica con contenido y rediseños.
+
+Y es que crear un blog hoy en día no es tan sencillo como podía serlo hace unos años, donde con un par de ficheros HTML y algo de CSS y Javascript ya tenías tu pedazo de Internet. Ahora tienes que buscar las herramientas y la infraestructura de <em>hosting</em> que no entorpezcan tu flujo de trabajo y para que puedas centrarte en escribir contenido.
+
+He decidido hacer uso de <a href="https://jekyllrb.com/">Jekyll</a> y un tema visual que me ha gustado para lanzar este blog. Me ha parecido lo más simple de configurar y de usar para llevar a cabo este proyecto, así como un pretexto para aprender sobre esta herramienta y retomar un poco el contacto con el lenguaje de programación <em>Ruby</em>.
+
+Por ello, esta publicación es el comienzo de ese viaje digital que siempre he dejado de lado por uno u otro motivo. Así, sin más preámbulos: 
+
+<strong>¡HOLA INTERNET!</strong>
