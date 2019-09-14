@@ -17,12 +17,12 @@ Trabajo como ingeniero de software full-stack en <a href="https://www.game-learn
 <span class="fa fa-graduation-cap about-icon"></span>
 Soy <strong>Ingeniero de Telecomunicación</strong> formado en la <a href="https://uc3m.es/" target="_blank">Universidad Carlos III de Madrid</a> donde estudié tanto el Grado como el Máster oficial, ambos en su modalidad <strong>bilingüe</strong>.</p>
 
-<p class="about-text">Mi trabajo de fin de grado fue presentado como candidato para el concurso nacional de Liberalización de las Telecomunicaciones organizado por el Colegio Oficial de Ingenieros de Telecomunicación (COIT) y fue galardonado con <a href="https://hosting01.uc3m.es/semanal3/233weekly_semanal3_del16al22dediciembre.html"><strong>el primer puesto en la categoría de Ingeniería Telemática en 2013.</strong></a>
+<p class="about-text">Mi trabajo de fin de grado, <strong>una pequeña infraestructura para la gestión de historiales clínicos electrónicos</strong>, fue presentado como candidato para el Concurso Nacional de Liberalización de las Telecomunicaciones organizado por el Colegio Oficial de Ingenieros de Telecomunicación (COIT) y fue galardonado con <a href="https://hosting01.uc3m.es/semanal3/233weekly_semanal3_del16al22dediciembre.html"><strong>el primer puesto en la categoría de Ingeniería Telemática en 2013.</strong></a>
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-Disfruto <strong>enfrentándome a retos técnicos y resolviendo problemas</strong> que puedan resultar de utilidad a la sociedad, además de permitir desarrollarme profesional y personalmente. Aunque por motivos profesionales estoy más enfocado en el desarrollo web, mi curiosidad me lleva a trastear con la programación de sistemas y aprender acerca del software desde una perspectiva más histórica.
+Disfruto <strong>enfrentándome a retos técnicos y resolviendo problemas</strong> que puedan resultar de utilidad a la sociedad, además de permitir desarrollarme profesional y personalmente. Aunque por motivos profesionales estoy más enfocado en el desarrollo web, mi curiosidad me lleva a trastear con la programación de sistemas y aprender acerca del software desde una perspectiva a más bajo nivel con su correspondiente historia.
 </p>
 
 <p class="about-text">
