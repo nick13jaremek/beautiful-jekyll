@@ -97,7 +97,7 @@ share-links-active:
 google_analytics: "UA-148035532-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-MD4CPZ2"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
