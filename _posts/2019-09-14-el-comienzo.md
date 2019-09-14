@@ -2,7 +2,7 @@
 layout: post
 title: El comienzo
 image: /img/infinite-roman-mosaic.jpg
-share-img: /img/infinite-roman-mosaic.jpg
+share-img: https://nick13jaremek.github.io/img/infinite-roman-mosaic.jpg
 ---
 
 Durante mucho tiempo ha estado rondando por mi cabeza la idea de tener un blog personal donde poder plasmar algunos de mis pensamientos y opiniones concernientes a temas que pudiera considerar interesantes y amenos, a la vez que darme a conocer.
