@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El comienzo
-image: /img/hola_mundo.jpeg
+image: /img/infinite-roman-mosaic.jpg
 ---
 
 Durante mucho tiempo ha estado rondando por mi cabeza la idea de tener un blog personal donde poder plasmar algunos de mis pensamientos y opiniones concernientes a temas que pudiera considerar interesantes y amenos, a la vez que darme a conocer.
